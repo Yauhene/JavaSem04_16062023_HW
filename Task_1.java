@@ -82,13 +82,9 @@ public class Task_1 {
 
         //Запаковываем результаты в списки:
         System.out.println();
-
-        // Первый результат
         System.out.println("Результирующие коллекции: ");
         System.out.println(Pack(composition));
         System.out.println(Pack(composition_2));
-
-        // Второй результат
 
         //Раскланиваемся, уходим
         System.out.println("--------------------------------------------------------------");
